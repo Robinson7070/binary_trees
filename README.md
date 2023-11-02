@@ -253,5 +253,4 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Authors
-* __Blessing Tetteh__ <[My-GitHub](https://github.com/Blessingdev233)>
-
+* __Robinson_ <[My-GitHub](https://github.com/Robinson7070
